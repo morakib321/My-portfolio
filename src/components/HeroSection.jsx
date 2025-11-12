@@ -22,7 +22,7 @@ export const HeroSection = () => {
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
             I love to create stellar web experiences with modern technologies.
-            I want to grow my career in Web development & Internet Applications , I'm passionate to build interfaces that are
+            I want to grow my career in Web development, I'm passionate to build interfaces that are
             both beautiful and functional.
           </p>
 
