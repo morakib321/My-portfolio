@@ -1,17 +1,3 @@
-
-## 📋 Table of Contents
-
-1. [Tech Stack](#-tech-stack)
-2. [Features](#-features)
-3. [Quick Start](#-quick-start)
-4. [Screenshots](#-screenshots)
-5. [Deployment](#-deployment)
-
----
-
-
----
-
 ## ⚙️ Tech Stack
 
 * **React** – Component-based UI development
@@ -52,7 +38,6 @@
 
 ---
 
-## 👌 Quick Start
 
 ### Prerequisites
 
