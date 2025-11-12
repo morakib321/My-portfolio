@@ -33,8 +33,6 @@
 * 📩 **Contact Section**
   Social icons + responsive contact form with toast notifications
 
-* 🚀 **One-Click Deployment**
-  Easily host your site with Vercel and GitHub
 
 ---
 
