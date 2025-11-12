@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/morakib321/My-portfolio",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const projects = [
       "VolunBee is a volunteering and community engagement platform where volunteers can offer a helping hand to those in need, test and share their knowledge, and connect with fellow volunteers.",
     image: "/projects/project2.png",
     tags: ["Android Studio", "Java"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/morakib321/VolunBees",
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ const projects = [
       "A small front-end practice project featuring a mini YouTube-style layout and three focused practice files for Flexbox and CSS Grid. ",
     image: "/projects/project3.png",
     tags: ["HTML", "CSS"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/morakib321/Youtube-Homepage-HTML-CSS-Clone",
   },
 ];
 
