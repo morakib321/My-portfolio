@@ -1,12 +1,11 @@
 
 ## 📋 Table of Contents
 
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
+1. [Tech Stack](#-tech-stack)
+2. [Features](#-features)
+3. [Quick Start](#-quick-start)
+4. [Screenshots](#-screenshots)
+5. [Deployment](#-deployment)
 
 ---
 
@@ -62,5 +61,3 @@
 
 
 ---
-
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
